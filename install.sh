@@ -1,6 +1,4 @@
-#!/usr/bin/sh
-
-#requires root access to install
+#!/bin/sh
 
 cp rl /usr/bin/rl
 cp st /usr/bin/st
