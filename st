@@ -1,2 +1,2 @@
-#!/bin/sh
+#!/bin/bash
 echo "$USERNAME-$*" >> /var/recall/$USERNAME-stash
